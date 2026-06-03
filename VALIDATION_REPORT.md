@@ -1,0 +1,88 @@
+# Validation Report - couple-travel-guide
+
+Generated: 2026-06-02T19:22:06.834955
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Couple Travel Guide
+- ✓ Article word count OK: Beginner Couple Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Couple Travel Guide
+- ✓ Article word count OK: Beginner Couple Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Couple Travel Guide
+- ✓ Article word count OK: Beginner Couple Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Couple Travel Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Couple Travel Guide
+- ✓ Article word count OK: Beginner Couple Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Couple Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Couple Travel Guide
+- ✓ Article word count OK: Advanced Couple Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Couple Travel Guide
+- ✓ Article word count OK: Advanced Couple Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Couple Travel Guide
+- ✓ Article word count OK: Advanced Couple Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Couple Travel Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Couple Travel Guide
+- ✓ Article word count OK: Advanced Couple Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Couple Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Couple Travel Guide Tips
+- ✓ Article word count OK: Couple Travel Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Couple Travel Guide Tips
+- ✓ Article word count OK: Couple Travel Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Couple Travel Guide Tips
+- ✓ Article word count OK: Couple Travel Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Couple Travel Guide Tips
+- ✓ Article word count OK: Common Mistakes in Couple Travel Guide Tips
+- ✓ Article word count OK: Couple Travel Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Couple Travel Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Couple Travel Guide History
+- ✓ Article word count OK: Couple Travel Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Couple Travel Guide History
+- ✓ Article word count OK: Couple Travel Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Couple Travel Guide History
+- ✓ Article word count OK: Couple Travel Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Couple Travel Guide History
+- ✓ Article word count OK: Common Mistakes in Couple Travel Guide History
+- ✓ Article word count OK: Couple Travel Guide History for Beginners
+- ✓ Article word count OK: Advanced Couple Travel Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Couple Travel Guide
+- ✓ Article word count OK: Trending Couple Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Couple Travel Guide
+- ✓ Article word count OK: Trending Couple Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Couple Travel Guide
+- ✓ Article word count OK: Trending Couple Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Couple Travel Guide
+- ✓ Article word count OK: Common Mistakes in Trending Couple Travel Guide
+- ✓ Article word count OK: Trending Couple Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Couple Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Couple Travel Guide Tutorials
+- ✓ Article word count OK: Couple Travel Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Couple Travel Guide Tutorials
+- ✓ Article word count OK: Couple Travel Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Couple Travel Guide Tutorials
+- ✓ Article word count OK: Couple Travel Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Couple Travel Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Couple Travel Guide Tutorials
+- ✓ Article word count OK: Couple Travel Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Couple Travel Guide Tutorials Techniques
+- ✓ Ad configuration validated

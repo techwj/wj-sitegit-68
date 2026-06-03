@@ -1,0 +1,59 @@
+{
+  "siteId": "couple-travel-guide",
+  "generatedAt": "2026-06-02T19:22:06.835181",
+  "categories": [
+    "beginner-couple-travel-guide",
+    "advanced-couple-travel-guide",
+    "tips-couple-travel-guide",
+    "history-couple-travel-guide",
+    "trending-couple-travel-guide",
+    "tutorials-couple-travel-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-couple-travel-guide",
+      "category_name": "Beginner Couple Travel Guide"
+    },
+    {
+      "category_slug": "advanced-couple-travel-guide",
+      "category_name": "Advanced Couple Travel Guide"
+    },
+    {
+      "category_slug": "tips-couple-travel-guide",
+      "category_name": "Couple Travel Guide Tips"
+    },
+    {
+      "category_slug": "history-couple-travel-guide",
+      "category_name": "Couple Travel Guide History"
+    },
+    {
+      "category_slug": "trending-couple-travel-guide",
+      "category_name": "Trending Couple Travel Guide"
+    },
+    {
+      "category_slug": "tutorials-couple-travel-guide",
+      "category_name": "Couple Travel Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "couple-travel-guide",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Couple Travel Guide Central",
+    "articles_per_row": 2
+  }
+}
